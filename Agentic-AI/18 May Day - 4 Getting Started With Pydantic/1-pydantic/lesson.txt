@@ -1,0 +1,18 @@
+Agenda
+
+    1) Vs code -- create a workspace + Environment
+    2) Pydantic -- Python code , How the pydantic is very useful
+    3) Langgraph -- still more pydantic code
+
+
+1) Environment -- Project  --> Conda
+
+    MULTIPLE PROJECT
+
+    Project 1 (Env1)              Project 2 (Env2)          Project 3 (Env3)
+    Python 3.10             python 3.12         python 3.13
+    Libaries                
+        Langchain           
+        panda
+        numpy   
+

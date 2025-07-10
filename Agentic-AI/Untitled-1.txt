@@ -1,0 +1,26 @@
+| ✅  | Module # | Topic                                                |
+| -- | -------- | ---------------------------------------------------- |
+| ☑️ | 1        | Induction Session                                    |
+| ☑️ | 2        | Anaconda and VS Code Installation                    |
+| ☑️ | 3        | AGENTIC AI Introduction                              |
+| ☑️ | 4        | Getting Started With Pydantic                        |
+| ☑️ | 5        | LangChain Part 1                                     |
+| ☑️ | 6        | LangChain Part 2                                     |
+| ☑️ | 7        | Traditional RAG Part 1                               |
+| ☑️ | 8        | Traditional RAG Part 2                               |
+| ☑️ | 9        | LangGraph Introduction Part 1                        |
+| ☑️ | 10       | LangGraph Introduction Part 2                        |
+| ☑️ | 11       | React Agent with LangGraph Part 1                    |
+| ☑️ | 12       | React Agent with LangGraph Part 2                    |
+| ☑️ | 13       | React Agent with Multiple Tool                       |
+| ☑️ | 14       | Agentic RAG Part 1                                   |
+| ☑️ | 15       | Agentic RAG Part 2                                   |
+| ⬜  | 16       | LangSmith                                            |
+| ⬜  | 17       | Designing Multi-Agent Systems with LangGraph         |
+| ⬜  | 18       | CrewAI – Multi-Agent Platform                        |
+| ⬜  | 19       | LangFlow – Low-Code Tool                             |
+| ⬜  | 20       | Integrating LangFlow with Third-Party Tools          |
+| ⬜  | 21       | n8n – AI Workflow Automation                         |
+| ⬜  | 22       | AutoGen – Agentic System Design                      |
+| ⬜  | 23       | Model Context Protocol (MCP)                         |
+| ⬜  | 24       | Deploying AI Agents & End-to-End Agentic AI Projects |

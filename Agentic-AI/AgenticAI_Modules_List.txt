@@ -1,0 +1,24 @@
+- Introduction to Agents – What are Agents, Agentic AI vs Generative AI, and Multi-Agent Systems.
+- Pydantic – Data Validation using models, validators, decorators, and monitoring.
+
+- LangChain – Core components, data ingestion, embeddings, FAISS & ChromaDB.
+
+- LCEL (LangChain Expression Language) – Build and deploy LLM chains using LangServe.
+
+- LangGraph Introduction – Build AI workflows with chains, routers, and memory-enabled agents.
+
+- State & Memory in LangGraph – Use of schemas, reducers, and message filtering.
+- UX and Human-in-the-Loop with LangGraph – Real-time controls, state editing, time travel debugging.
+- LangGraph Deployments – Setup and connect deployments to APIs.
+- Agno – Lightweight agent framework with chunking, vector DBs, RAG agents, observability.
+- Agentic RAG – Adaptive, Controlled, and Self-Optimizing Retrieval-Augmented Generation.
+- LangSmith – Manage AI pipelines, preprocess data, and integrate workflows.
+- Designing Multi-Agent Systems with LangGraph – Roles, protocols, and scalability.
+- CrewAI – Multi-agent collaboration, LangChain tools integration, monitoring with Opik.
+- LangFlow – Build LLM workflows using a low-code visual interface.
+- Building Blocks of LangFlow – Nodes, chains, prompt engineering, and LangChain integration.
+- Integrating LangFlow with Third-Party Tools – APIs, SQL, vector DBs, chatbot workflows.
+- n8n – Workflow automation, webhooks, AI bots, blog generators, and Notion integration.
+- AutoGen – Agentic system design, feedback loops, collaboration, and performance monitoring.
+- Model Context Protocol (MCP) – Standardized tooling interface, Anthropic, and LLM integration.
+- Deploying AI Agents & End-to-End Projects – GitHub Actions, Docker, AWS stack, BentoML.
